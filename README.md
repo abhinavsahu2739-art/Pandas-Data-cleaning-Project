@@ -16,4 +16,4 @@ Beginner - friendly  Pandas practice notebooks created using Google Colab
 - Google Colab
 
 # Author
-Abhinav
+Abhinav Sahu
