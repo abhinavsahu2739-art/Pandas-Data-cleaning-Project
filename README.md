@@ -8,7 +8,7 @@ Beginner - friendly  Pandas practice notebooks created using Google Colab
 - Basic analysis
 
 ## Notebooks
--"Pandas Datacleaning.ipynb"- Cleaning missing and inconsistent data 
+-"Pandas_Datacleaning.ipynb"- Cleaning missing and inconsistent data 
 
 # Tools Used
 - Python
