@@ -1,4 +1,4 @@
-# Pandas-Data-cleaning-Project
+# Pandas-Data-Cleaning-Project
 Beginner - friendly  Pandas practice notebooks created using Google Colab
 
 #Topics covered
@@ -8,7 +8,7 @@ Beginner - friendly  Pandas practice notebooks created using Google Colab
 - Basic analysis
 
 ## Notebooks
--"Pandas_Datacleaning.ipynb"- Cleaning missing and inconsistent data 
+-"Pandas_Data_Cleaning.ipynb"- Cleaning missing and inconsistent data 
 
 # Tools Used
 - Python
